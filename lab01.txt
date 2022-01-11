@@ -6,5 +6,3 @@
 6. 301 moved. 301 from curl -i. 301 then 418 for curl -iL. When you curl -i http://www.google.com/teapot/, you get 418 I'm a teapot. 
 7. When using -X POST the output included the html entity codes 
 8. https://raw.githubusercontent.com/reillykeele/cmput404-lab01/master/lab01.py
-
-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
