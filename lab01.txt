@@ -1,0 +1,8 @@
+1. https://github.com/reillykeele
+2. 2.25.1
+3. 2.27.1
+4. The virtual environment is an isolated python environment with its own dependencies and libraries sepeare from the non virtual environment.
+5. 301. Visit http://www.google.com/ for 200. 
+6. 301 moved. 301 from curl -i. 301 then 418 for curl -iL. When you curl -i http://www.google.com/teapot/, you get 418 I'm a teapot. 
+7. When using -X POST the output included the html entity codes 
+8. 
